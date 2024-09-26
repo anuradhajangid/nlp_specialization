@@ -1,2 +1,2 @@
 # nlp_specialization
-NLP Coursera Specialization
+NLP Coursera Specialization (Deeplearning.AI)
